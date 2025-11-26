@@ -79,6 +79,271 @@
     "bdzy": {
       "api": "https://api.apibdzy.com/api.php/provide/vod",
       "name": "百度资源"
+    },
+    "xiaomaomi": {
+      "api": "https://zy.xmm.hk/api.php/provide/vod",
+      "name": "小猫咪资源"
+    },
+    "dbzy2": {
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod",
+      "name": "豆瓣资源2"
+    },
+    "snzy": {
+      "api": "https://suoniapi.com/api.php/provide/vod/",
+      "name": "索尼资源"
+    },
+    "ukuzy": {
+      "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "name": "U酷资源"
+    },    
+    "xnzy": {
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "name": "新浪资源"
+    },
+    "kczy": {
+      "api": "https://caiji.kuaichezy.org/api.php/provide/vod",
+      "name": "快车资源"
+    },
+    "jyzy": {
+      "api": "https://jyzyapi.com/provide/vod",
+      "name": "金鹰资源"
+    },
+    "tpzy": {
+      "api": "https://taopianapi.com/cjapi/sda/vod",
+      "name": "淘片资源"
+    },    
+    "aiqiyizy": {
+      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "name": "aiqiyi资源"
+    }    
+  },
+  "custom_category": [    
+    {
+      "name": "Top 250",
+      "type": "movie",
+      "query": "Top 250"
+    },
+    {
+      "name": "剧情片",
+      "type": "movie",
+      "query": "剧情片"
+    },
+    {
+      "name": "喜剧片",
+      "type": "movie",
+      "query": "喜剧片"
+    },
+    {
+      "name": "动作片",
+      "type": "movie",
+      "query": "动作片"
+    },
+    {
+      "name": "爱情片",
+      "type": "movie",
+      "query": "爱情片"
+    },
+    {
+      "name": "科幻片",
+      "type": "movie",
+      "query": "科幻片"
+    },
+    {
+      "name": "动画片",
+      "type": "movie",
+      "query": "动画片"
+    },
+    {
+      "name": "悬疑片",
+      "type": "movie",
+      "query": "悬疑片"
+    },
+    {
+      "name": "惊悚片",
+      "type": "movie",
+      "query": "惊悚片"
+    },
+    {
+      "name": "恐怖片",
+      "type": "movie",
+      "query": "恐怖片"
+    },
+    {
+      "name": "纪录片",
+      "type": "movie",
+      "query": "纪录片"
+    },
+    {
+      "name": "短片",
+      "type": "movie",
+      "query": "短片"
+    },
+    {
+      "name": "音乐",
+      "type": "movie",
+      "query": "音乐电影"
+    },
+    {
+      "name": "歌舞",
+      "type": "movie",
+      "query": "歌舞电影"
+    },
+    {
+      "name": "家庭片",
+      "type": "movie",
+      "query": "家庭片"
+    },
+    {
+      "name": "儿童",
+      "type": "movie",
+      "query": "儿童电影"
+    },
+    {
+      "name": "传记",
+      "type": "movie",
+      "query": "传记电影"
+    },
+    {
+      "name": "历史片",
+      "type": "movie",
+      "query": "历史片"
+    },
+    {
+      "name": "战争片",
+      "type": "movie",
+      "query": "战争片"
+    },
+    {
+      "name": "犯罪片",
+      "type": "movie",
+      "query": "犯罪片"
+    },
+    {
+      "name": "西部片",
+      "type": "movie",
+      "query": "西部电影"
+    },
+    {
+      "name": "奇幻片",
+      "type": "movie",
+      "query": "奇幻片"
+    },
+    {
+      "name": "冒险片",
+      "type": "movie",
+      "query": "冒险片"
+    },
+    {
+      "name": "灾难片",
+      "type": "movie",
+      "query": "灾难片"
+    },
+    {
+      "name": "武侠片",
+      "type": "movie",
+      "query": "武侠片"
+    },
+    {
+      "name": "古装片",
+      "type": "movie",
+      "query": "古装片"
+    },
+    {
+      "name": "黑色电影",
+      "type": "movie",
+      "query": "黑色电影"
+    },
+    {
+      "name": "华语电影",
+      "type": "movie",
+      "query": "华语电影"
+    },    
+    {
+      "name": "欧美电影",
+      "type": "movie",
+      "query": "欧美电影"
+    },    
+    {
+      "name": "韩国电影",
+      "type": "movie",
+      "query": "韩国电影"
+    },    
+    {
+      "name": "日本电影",
+      "type": "movie",
+      "query": "日本电影"
+    },    
+    {
+      "name": "台湾电影",
+      "type": "movie",
+      "query": "台湾电影"
+    },    
+    {
+      "name": "东南亚电影",
+      "type": "movie",
+      "query": "东南亚电影"
+    },
+    {
+      "name": "伦理片",
+      "type": "movie",
+      "query": "伦理片"
+    },    
+    {
+      "name": "情色片",
+      "type": "movie",
+      "query": "情色片"
+    },
+    
+		{
+      "name": "热门",
+      "type": "tv",
+      "query": "热门"
+    },
+		{
+      "name": "美剧",
+      "type": "tv",
+      "query": "美剧"
+    },
+		{
+      "name": "英剧",
+      "type": "tv",
+      "query": "英剧"
+    },
+		{
+      "name": "韩剧",
+      "type": "tv",
+      "query": "韩剧"
+    },
+		{
+      "name": "日剧",
+      "type": "tv",
+      "query": "日剧"
+    },
+		{
+      "name": "国产剧",
+      "type": "tv",
+      "query": "国产剧"
+    },
+		{
+      "name": "港剧",
+      "type": "tv",
+      "query": "港剧"
+    },    
+		{
+      "name": "日本动画",
+      "type": "tv",
+      "query": "日本动画"
+    },    
+		{
+      "name": "综艺",
+      "type": "tv",
+      "query": "综艺"
+    },        
+		{
+      "name": "纪录片",
+      "type": "tv",
+      "query": "纪录片"
     }
-  }
+  ]  
+
 }
